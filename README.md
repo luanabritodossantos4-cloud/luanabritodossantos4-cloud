@@ -3,7 +3,7 @@
 # Olá, eu sou a Luana Santos 👋
 
 ### 🎯 Sobre Mim
-Sou estudante de **Sistemas de Informação** com foco em desenvolvimento de software, gestão de dados e solução de problemas através da tecnologia. 
+Sou estudante de **Sistemas de Informação** na Cruzeiro do Sul (UDF) com foco em desenvolvimento de software, gestão de dados e solução de problemas através da tecnologia. 
 
 - 🎓 Graduando em **Sistemas de Informação**
 - 🔭 Atualmente estudando: **Desenvolvimento Web e Banco de Dados**
