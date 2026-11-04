@@ -1,14 +1,24 @@
-## Hi there 👋
 
 # Olá, eu sou a Luana Santos 👋
 
 ### 🎯 Sobre Mim
 Sou estudante de **Sistemas de Informação** na Cruzeiro do Sul (UDF) com foco em desenvolvimento de software, gestão de dados e solução de problemas através da tecnologia. 
 
+---
+
 - 🎓 Graduando em **Sistemas de Informação**
 - 🔭 Atualmente estudando: **Desenvolvimento Web e Banco de Dados**
 - 💬 Me pergunte sobre: **Python, SQL e Git**
 - 📫 Como me encontrar: [LinkedIn](www.linkedin.com/in/luana-santos-822388190) | [E-mail](luanabritodossantos4@gmail.com)
+
+---
+
+## 📚 O que estou estudando
+
+- 💻 **Lógica de Programação & Algoritmos**
+- 🗄️ **Bancos de Dados Relacionais** 
+- 🤖 **Ferramentas & IA no Desenvolvimento**
+- 🌐 **Desenvolvimento Web**
 
 ---
 
@@ -27,8 +37,3 @@ Sou estudante de **Sistemas de Informação** na Cruzeiro do Sul (UDF) com foco 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-- ⚡ Fun fact: ...
--->
