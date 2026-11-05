@@ -9,7 +9,7 @@ Sou estudante de **Sistemas de Informação** na Cruzeiro do Sul (UDF) com foco 
 - 🎓 Graduando em **Sistemas de Informação**
 - 🔭 Atualmente estudando: **Desenvolvimento Web e Banco de Dados**
 - 💬 Me pergunte sobre: **Python, SQL e Git**
-- 📫 Como me encontrar: [LinkedIn](www.linkedin.com/in/luana-santos-822388190) | [E-mail](luanabritodossantos4@gmail.com)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/luana-santos-822388190/) | [E-mail](luanabritodossantos4@gmail.com)
 
 ---
 
